@@ -39,7 +39,13 @@ Data Cleaning & Transformation (Power Query, DAX)
 
 <img width="1919" height="980" alt="Screenshot 2025-09-07 114432" src="https://github.com/user-attachments/assets/9a5806cb-f82d-4e89-88d4-9c365c345028" />
 
+<br><br>
+
+
 <img width="1916" height="976" alt="Screenshot 2025-09-07 114501" src="https://github.com/user-attachments/assets/f8702211-2cb8-4f61-9a53-65b4678c9549" />
+
+<br><br>
+
 
 <img width="1919" height="977" alt="Screenshot 2025-09-07 114553" src="https://github.com/user-attachments/assets/709a88be-6ad2-4fea-8f83-663b0d2d22c1" />
 
